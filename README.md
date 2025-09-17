@@ -13,9 +13,9 @@ A backend service that provides **CRUD (Create, Read, Update, Delete)** operatio
 ---
 
 ## 🚀 Tech Stack
-- **Backend**: Spring Boot (or Django / Node.js depending on your stack)  
-- **Database**: PostgreSQL / MySQL  
-- **Build Tool**: Maven / Gradle  
+- **Backend**: Spring Boot 
+- **Database**: PostgreSQL
+- **Build Tool**: Maven
 
 ---
 
